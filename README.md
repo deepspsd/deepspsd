@@ -61,7 +61,7 @@ Built an end-to-end movie recommendation system combining content-based and coll
 
 **Tech:** `Python` `Pandas` `Scikit-learn` `Recommendation Systems` `Data Visualization`
 
-[View Code](https://github.com/deepspsd) • [Demo](https://deepakprasads.vercel.app/)
+[View Code](https://github.com/deepspsd) 
 
 ---
 
@@ -70,7 +70,7 @@ Developed a real-time AI voice assistant that uses speech recognition, LLMs, and
 
 **Tech:** `Python` `LiveKit` `OpenAI` `WebSockets` `FastAPI`
 
-[View Code](https://github.com/deepspsd) • [Demo](https://deepakprasads.vercel.app/)
+[View Code](https://github.com/deepspsd) 
 
 ---
 
@@ -79,8 +79,7 @@ Designed a full-stack platform that monitors web applications for vulnerabilitie
 
 **Tech:** `React` `Node.js` `Express` `JWT` `PostgreSQL` `Docker`
 
-[View Code](https://github.com/deepspsd) • [Demo](https://deepakprasads.vercel.app/)
-
+[View Code](https://github.com/deepspsd) 
 ---
 
 ### 🚀 Nexora – AI-Powered Startup Co-Pilot
