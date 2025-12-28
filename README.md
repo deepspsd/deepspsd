@@ -21,16 +21,6 @@ Right now, I'm actively looking for **AI/ML internship opportunities** where I c
 - 💡 **Interests:** Recommendation Systems, Voice AI, Web Security, Startup Co-Pilots
 - 🎯 **Open to:** AI/ML Internships & Collaborative Projects
 
-## 💻 Tech Stack
-
-### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 
 ## 📫 Let's Connect!
